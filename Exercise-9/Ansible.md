@@ -1,4 +1,4 @@
-Below is my Ansible Playbook
+Below is a picture of my Ansible Playbook
 ![Ansible](..\ASSETS\Exercise-9-assets\img\playbook-1.jpg)
 ![Ansible](..\ASSETS\Exercise-9-assets\img\playbook-2.jpg)
 
